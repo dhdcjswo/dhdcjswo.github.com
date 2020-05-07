@@ -1,16 +1,18 @@
-```
 ---
+
 title: "DP"
 categories: 
-  - blogging
+
+​	- blogging
+
 last_modified_at: 2018-07-01T13:00:00+09:00
 toc: true
+
 ---
-```
-
-# Dirichlet Process
 
 
+
+## Dirichlet Process 
 
 non-parametric 베이지안 추론에서 가장 유명한(?) ,주로 쓰이는 **'Dirichlet Process(DP)'**  에 대해서 알아보자. 먼저 사전에 알아두어야할 내용들에 대해 간략하게 이야기하고 DP를 이야기 하려고 한다.
 
