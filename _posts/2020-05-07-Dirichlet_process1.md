@@ -1,14 +1,16 @@
 ---
 
-title: "DP"
-categories: 
+title:  "블로그 첫 글" 
 
-​	- blogging
+date: 2018-11-30 
 
-last_modified_at: 2018-07-01T13:00:00+09:00
-toc: true
+categories: ['일반'] 
+
+tags: ['블로그', 'jekyll', 'github', 'github.io'] 
 
 ---
+
+
 
 
 
