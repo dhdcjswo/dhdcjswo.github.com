@@ -3,7 +3,7 @@
 title:  "블로그 첫 글" 
 
 date: 2018-11-30 
-
+use_math: true
 categories: ['일반'] 
 
 tags: ['블로그', 'jekyll', 'github', 'github.io'] 
