@@ -1,6 +1,6 @@
 ---
 title: "tags"
-permalink: /posts/
+permalink: /tags/
 classes: wide
+author_profile: true
 ---
-하이요

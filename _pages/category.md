@@ -1,6 +1,6 @@
 ---
 title: "category"
-permalink: /posts/
+permalink: /categories/
 classes: wide
+author_profile: true
 ---
-하이요
