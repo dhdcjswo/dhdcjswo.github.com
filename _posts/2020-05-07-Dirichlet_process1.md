@@ -16,7 +16,8 @@ tags: ['블로그', 'jekyll', 'github', 'github.io']
 
 ## Dirichlet Process 
 
-non-parametric 베이지안 추론에서 가장 유명한(?) ,주로 쓰이는 **'Dirichlet Process(DP)'**  에 대해서 알아보자. 먼저 사전에 알아두어야할 내용들에 대해 간략하게 이야기하고 DP를 이야기 하려고 한다.
+non-parametric 베이지안 추론의 하나인 **'Dirichlet Process(DP)'**  에 대해서 알아보자. 먼저 사전에 알아두어야할 내용들에 대해 간략하게 이야기하고 DP를 이야기 하려고 한다.
+
 
 
 
@@ -29,6 +30,7 @@ non-parametric의 방법이라고 하면 모수가 없는 통계 방법 또는 �
 **Dirichlet distribution**
 
 *Dirichlet distribution* 은 multinomial distribution의 conjugate형태의 분포로, 선택지의 갯수가 k개인 문제의 상황을 효과적으로 다루는 continuous 함수이다. 사실 DP의 형태는 Dirichlet으로 표현이 가능하다.
+
 
 
 
