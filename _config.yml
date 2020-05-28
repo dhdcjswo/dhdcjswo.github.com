@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-KR"
-title                    : "Bayesian-Lab"
+title                    : "Mas o Menos Data"
 title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jinsu Park"
-description              : "An amazing website."
+description              : "평범하 데이터 분석가입니다."
 url                      : "https://dhdcjswo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jinsu Park"
   avatar           : "/assets/img/profile.jpg"
-  bio              : "꼬꼬마 베이지안 분석가"
+  bio              : "베이지안 분석가"
   location         : "Somewhere"
   email            : "to23273287@gmail.com"
   links:

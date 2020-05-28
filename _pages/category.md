@@ -1,5 +1,5 @@
 ---
-title: "Posts"
+title: "category"
 permalink: /posts/
 classes: wide
 ---
