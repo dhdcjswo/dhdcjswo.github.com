@@ -4,6 +4,8 @@ main:
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
+  - title: 'bayesian'
+    url : /categories/bayesian/
   - title: "tag"
     url: /tags/
   - title: "category"
@@ -14,3 +16,5 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  
